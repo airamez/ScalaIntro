@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ScalaIntro.iml" filepath="$PROJECT_DIR$/.idea/ScalaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro.iml" filepath="$PROJECT_DIR$/.idea/modules/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro/.idea/modules/intro-build.iml" filepath="$PROJECT_DIR$/intro/.idea/modules/intro-build.iml" />
+    </modules>
+  </component>
+</project>
