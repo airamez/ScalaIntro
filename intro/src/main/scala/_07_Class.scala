@@ -1,5 +1,5 @@
 class Person (var name: String, var email: String, var age: Int) {
-  override def toString(): String = s"[Name: $name; Email: $email; Age: $age]"
+  override def toString: String = s"[Name: $name; Email: $email; Age: $age]"
 }
 
 object _07_Class extends App{
